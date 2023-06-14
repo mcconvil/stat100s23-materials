@@ -1,0 +1,128 @@
+year,institution_name,city_txt,state_cd,classification_name,ef_total_count,sector_name,partic_men,partic_women,total_exp_menwomen,exp_ratio,sports
+2019,Alabama A & M University,Normal,AL,NCAA Division I-FCS,4975,Public,15,13,2954877,1.1292497595036588,Basketball
+2019,Alabama State University,Montgomery,AL,NCAA Division I-FCS,3446,Public,18,16,1728334,1.267512096308658,Basketball
+2019,Jacksonville State University,Jacksonville,AL,NCAA Division I-FCS,5759,Public,14,17,2623129,1.4366746553710104,Basketball
+2019,University of North Alabama,Florence,AL,NCAA Division I-FCS,4839,Public,13,12,2124461,1.3466487429265108,Basketball
+2019,Samford University,Birmingham,AL,NCAA Division I-FCS,3508,Private nonprofit,13,13,3450723,1.6316406404910146,Basketball
+2019,Northern Arizona University,Flagstaff,AZ,NCAA Division I-FCS,21730,Public,16,16,3038110,1.044060765209973,Basketball
+2019,University of Arkansas at Pine Bluff,Pine Bluff,AR,NCAA Division I-FCS,2161,Public,13,15,1583563,1.024113279367648,Basketball
+2019,University of Central Arkansas,Conway,AR,NCAA Division I-FCS,7597,Public,14,14,2147640,1.4139710072599871,Basketball
+2019,California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,NCAA Division I-FCS,19639,Public,14,20,3967183,1.2923319342298074,Basketball
+2019,California State University-Sacramento,Sacramento,CA,NCAA Division I-FCS,24074,Public,16,24,2822045,1.3030521891704412,Basketball
+2019,University of California-Davis,Davis,CA,NCAA Division I-FCS,30151,Public,15,20,4141401,1.2764719365837758,Basketball
+2019,University of San Diego,San Diego,CA,NCAA Division I-FCS,5691,Private nonprofit,16,16,5049094,1.3823920488378918,Basketball
+2019,University of Northern Colorado,Greeley,CO,NCAA Division I-FCS,7676,Public,15,15,2727205,1.2352563671741172,Basketball
+2019,Central Connecticut State University,New Britain,CT,NCAA Division I-FCS,7243,Public,15,15,2993379,0.8327251554221101,Basketball
+2019,Sacred Heart University,Fairfield,CT,NCAA Division I-FCS,5348,Private nonprofit,14,21,3161954,1.001868944685695,Basketball
+2019,Yale University,New Haven,CT,NCAA Division I-FCS,6088,Private nonprofit,15,15,2265664,1.6089075278029188,Basketball
+2019,Delaware State University,Dover,DE,NCAA Division I-FCS,3719,Public,15,14,2159820,0.7310869005912636,Basketball
+2019,University of Delaware,Newark,DE,NCAA Division I-FCS,18352,Public,13,31,5203769,1.0630417261178642,Basketball
+2019,Georgetown University,Washington,DC,NCAA Division I-FCS,6988,Private nonprofit,16,16,16992533,4.34603007110513,Basketball
+2019,Howard University,Washington,DC,NCAA Division I-FCS,6264,Private nonprofit,17,23,2379517,1.1501361728120634,Basketball
+2019,Bethune-Cookman University,Daytona Beach,FL,NCAA Division I-FCS,2708,Private nonprofit,15,17,1171344,1.6902030495325107,Basketball
+2019,Florida Agricultural and Mechanical University,Tallahassee,FL,NCAA Division I-FCS,6788,Public,15,13,1677931,1.474598193085588,Basketball
+2019,Jacksonville University,Jacksonville,FL,NCAA Division I-FCS,2383,Private nonprofit,15,15,3435683,1.262979741959621,Basketball
+2019,Stetson University,DeLand,FL,NCAA Division I-FCS,3097,Private nonprofit,16,15,3622568,1.0726575118621298,Basketball
+2019,Mercer University,Macon,GA,NCAA Division I-FCS,4253,Private nonprofit,16,12,3880509,1.3332748086875428,Basketball
+2019,Idaho State University,Pocatello,ID,NCAA Division I-FCS,5875,Public,17,18,2427056,1.0128497629337334,Basketball
+2019,University of Idaho,Moscow,ID,NCAA Division I-FCS,6718,Public,17,13,2812956,1.0750864018117638,Basketball
+2019,Eastern Illinois University,Charleston,IL,NCAA Division I-FCS,3990,Public,15,14,1976160,1.3068787515846834,Basketball
+2019,Illinois State University,Normal,IL,NCAA Division I-FCS,17072,Public,16,15,3883681,1.8135867411512165,Basketball
+2019,Southern Illinois University-Carbondale,Carbondale,IL,NCAA Division I-FCS,7130,Public,14,14,4454520,2.3403897766309494,Basketball
+2019,Western Illinois University,Macomb,IL,NCAA Division I-FCS,5151,Public,16,15,2090469,1.11614417730322,Basketball
+2019,Butler University,Indianapolis,IN,NCAA Division I-FCS,4485,Private nonprofit,16,36,8148025,2.5409399280602116,Basketball
+2019,Indiana State University,Terre Haute,IN,NCAA Division I-FCS,8102,Public,15,14,3332791,1.7664651522232302,Basketball
+2019,Valparaiso University,Valparaiso,IN,NCAA Division I-FCS,2924,Private nonprofit,14,15,3781362,1.8443119582803977,Basketball
+2019,Drake University,Des Moines,IA,NCAA Division I-FCS,2825,Private nonprofit,17,23,5404988,1.2461643697282032,Basketball
+2019,University of Northern Iowa,Cedar Falls,IA,NCAA Division I-FCS,8216,Public,18,29,4493775,2.6370615215397826,Basketball
+2019,Eastern Kentucky University,Richmond,KY,NCAA Division I-FCS,9904,Public,16,15,2437620,1.4307870575811394,Basketball
+2019,Morehead State University,Morehead,KY,NCAA Division I-FCS,5217,Public,13,13,2143664,1.1714036820380358,Basketball
+2019,Murray State University,Murray,KY,NCAA Division I-FCS,6127,Public,13,13,3681897,2.2682798443040952,Basketball
+2019,Grambling State University,Grambling,LA,NCAA Division I-FCS,3813,Public,19,18,1823378,1.290347864753038,Basketball
+2019,McNeese State University,Lake Charles,LA,NCAA Division I-FCS,5231,Public,17,14,2058550,1.6573696487606773,Basketball
+2019,Nicholls State University,Thibodaux,LA,NCAA Division I-FCS,4971,Public,16,14,1585269,1.1483928411705873,Basketball
+2019,Northwestern State University of Louisiana,Natchitoches,LA,NCAA Division I-FCS,6196,Public,25,16,2037236,1.0510333010159343,Basketball
+2019,Southeastern Louisiana University,Hammond,LA,NCAA Division I-FCS,9240,Public,15,15,2012342,1.229346597833071,Basketball
+2019,Southern University and A & M College,Baton Rouge,LA,NCAA Division I-FCS,4873,Public,18,16,1699889,0.943072266433178,Basketball
+2019,University of Maine,Orono,ME,NCAA Division I-FCS,8028,Public,15,14,3050177,1.077787155660824,Basketball
+2019,Morgan State University,Baltimore,MD,NCAA Division I-FCS,5756,Public,23,18,2615778,1.4829854548871788,Basketball
+2019,Towson University,Towson,MD,NCAA Division I-FCS,17171,Public,17,18,4383954,1.2225492765739125,Basketball
+2019,Harvard University,Cambridge,MA,NCAA Division I-FCS,6985,Private nonprofit,19,14,2541837,1.5012344609946735,Basketball
+2019,College of the Holy Cross,Worcester,MA,NCAA Division I-FCS,2931,Private nonprofit,15,13,4141124,1.291449734313778,Basketball
+2019,Merrimack College,North Andover,MA,NCAA Division I-FCS,3883,Private nonprofit,15,20,2639125,1.1117696575718439,Basketball
+2019,Alcorn State University,Alcorn State,MS,NCAA Division I-FCS,2643,Public,17,15,1103564,0.9894754110773192,Basketball
+2019,Jackson State University,Jackson,MS,NCAA Division I-FCS,4123,Public,21,15,1502289,1.1088457624144588,Basketball
+2019,Mississippi Valley State University,Itta Bena,MS,NCAA Division I-FCS,1415,Public,15,14,920886,1.1356502944129945,Basketball
+2019,Southeast Missouri State University,Cape Girardeau,MO,NCAA Division I-FCS,7056,Public,15,19,2351485,1.448754423198282,Basketball
+2019,Missouri State University-Springfield,Springfield,MO,NCAA Division I-FCS,13939,Public,16,31,4626761,1.5477450163048685,Basketball
+2019,Montana State University,Bozeman,MT,NCAA Division I-FCS,12275,Public,15,19,3591233,0.993765930077819,Basketball
+2019,The University of Montana,Missoula,MT,NCAA Division I-FCS,6123,Public,16,13,3848253,1.8246276955327867,Basketball
+2019,Dartmouth College,Hanover,NH,NCAA Division I-FCS,4363,Private nonprofit,18,37,2035205,1.2598072417583637,Basketball
+2019,University of New Hampshire-Main Campus,Durham,NH,NCAA Division I-FCS,11900,Public,14,16,2982484,1.180511496273919,Basketball
+2019,Monmouth University,West Long Branch,NJ,NCAA Division I-FCS,4301,Private nonprofit,14,15,5002422,1.6337061733139937,Basketball
+2019,Princeton University,Princeton,NJ,NCAA Division I-FCS,5308,Private nonprofit,17,16,2718748,1.3711245439806317,Basketball
+2019,Colgate University,Hamilton,NY,NCAA Division I-FCS,2960,Private nonprofit,15,15,4159081,1.2928943161144495,Basketball
+2019,Columbia University in the City of New York,New York,NY,NCAA Division I-FCS,7701,Private nonprofit,16,14,2510721,1.3691500685063354,Basketball
+2019,Cornell University,Ithaca,NY,NCAA Division I-FCS,14971,Private nonprofit,17,21,2088299,1.1145832700466802,Basketball
+2019,Fordham University,Bronx,NY,NCAA Division I-FCS,9141,Private nonprofit,18,16,8321939,1.4043862312775324,Basketball
+2019,Iona College,New Rochelle,NY,NCAA Division I-FCS,2702,Private nonprofit,14,16,5006955,1.5425811264339915,Basketball
+2019,Long Island University,Brookville,NY,NCAA Division I-FCS,5534,Private nonprofit,16,14,4424109,1.345095272448937,Basketball
+2019,Marist College,Poughkeepsie,NY,NCAA Division I-FCS,5198,Private nonprofit,14,15,4173910,1.247350664258816,Basketball
+2019,SUNY at Albany,Albany,NY,NCAA Division I-FCS,12548,Public,16,13,3015489,1.174006985973981,Basketball
+2019,Stony Brook University,Stony Brook,NY,NCAA Division I-FCS,16579,Public,15,16,4810998,1.4543716759983165,Basketball
+2019,Wagner College,Staten Island,NY,NCAA Division I-FCS,1659,Private nonprofit,13,14,2953381,1.0997729153572922,Basketball
+2019,Campbell University,Buies Creek,NC,NCAA Division I-FCS,3255,Private nonprofit,16,13,2967457,1.2986917214138922,Basketball
+2019,Davidson College,Davidson,NC,NCAA Division I-FCS,1833,Private nonprofit,17,14,5533195,1.7063831806145078,Basketball
+2019,Elon University,Elon,NC,NCAA Division I-FCS,6079,Private nonprofit,15,21,4390668,1.2646270587434316,Basketball
+2019,Gardner-Webb University,Boiling Springs,NC,NCAA Division I-FCS,1632,Private nonprofit,17,15,2276127,1.1771098661764299,Basketball
+2019,North Carolina A & T State University,Greensboro,NC,NCAA Division I-FCS,9926,Public,17,16,3040134,1.2024546144099384,Basketball
+2019,North Carolina Central University,Durham,NC,NCAA Division I-FCS,4866,Public,16,24,3317759,1.222559478551547,Basketball
+2019,Western Carolina University,Cullowhee,NC,NCAA Division I-FCS,8892,Public,16,12,1975795,1.3003355392145448,Basketball
+2019,University of North Dakota,Grand Forks,ND,NCAA Division I-FCS,7609,Public,15,24,3905532,1.0833481806126184,Basketball
+2019,North Dakota State University-Main Campus,Fargo,ND,NCAA Division I-FCS,9598,Public,15,16,3337430,1.1122520148300605,Basketball
+2019,University of Dayton,Dayton,OH,NCAA Division I-FCS,8031,Private nonprofit,17,16,11737831,2.3300322851533686,Basketball
+2019,Youngstown State University,Youngstown,OH,NCAA Division I-FCS,8576,Public,16,14,2875294,1.4508528522026864,Basketball
+2019,Portland State University,Portland,OR,NCAA Division I-FCS,13536,Public,16,13,2506036,1.2953356628304764,Basketball
+2019,Bucknell University,Lewisburg,PA,NCAA Division I-FCS,3602,Private nonprofit,14,16,4017749,1.3831945224623294,Basketball
+2019,Duquesne University,Pittsburgh,PA,NCAA Division I-FCS,5732,Private nonprofit,15,15,8236619,2.4644951685365375,Basketball
+2019,Lafayette College,Easton,PA,NCAA Division I-FCS,2633,Private nonprofit,15,13,3834443,0.9778352272932423,Basketball
+2019,Lehigh University,Bethlehem,PA,NCAA Division I-FCS,5098,Private nonprofit,14,16,3614341,0.9701534110854554,Basketball
+2019,University of Pennsylvania,Philadelphia,PA,NCAA Division I-FCS,10195,Private nonprofit,17,19,3002515,1.8475890691062076,Basketball
+2019,Robert Morris University,Moon Township,PA,NCAA Division I-FCS,3496,Private nonprofit,14,14,3702386,1.4985598674052238,Basketball
+2019,Saint Francis University,Loretto,PA,NCAA Division I-FCS,1447,Private nonprofit,19,14,3044859,1.3029516206496212,Basketball
+2019,Villanova University,Villanova,PA,NCAA Division I-FCS,6525,Private nonprofit,15,21,15887139,4.544922131992912,Basketball
+2019,Brown University,Providence,RI,NCAA Division I-FCS,6810,Private nonprofit,14,15,2111300,1.6891704623034676,Basketball
+2019,Bryant University,Smithfield,RI,NCAA Division I-FCS,3196,Private nonprofit,16,20,3257713,1.0593854424402265,Basketball
+2019,University of Rhode Island,Kingston,RI,NCAA Division I-FCS,12559,Public,14,15,6497877,2.018630571251111,Basketball
+2019,Charleston Southern University,Charleston,SC,NCAA Division I-FCS,2555,Private nonprofit,14,15,2397452,1.380342100978169,Basketball
+2019,Citadel Military College of South Carolina,Charleston,SC,NCAA Division I-FCS,2688,Public,16,NA,1526706,NA,Basketball
+2019,Furman University,Greenville,SC,NCAA Division I-FCS,2599,Private nonprofit,14,15,4380836,1.5187047129310807,Basketball
+2019,Presbyterian College,Clinton,SC,NCAA Division I-FCS,1022,Private nonprofit,15,16,2413680,1.262073567436817,Basketball
+2019,South Carolina State University,Orangeburg,SC,NCAA Division I-FCS,1958,Public,18,15,1477075,0.9983102486329113,Basketball
+2019,Wofford College,Spartanburg,SC,NCAA Division I-FCS,1709,Private nonprofit,16,14,3325785,1.1730879053240828,Basketball
+2019,South Dakota State University,Brookings,SD,NCAA Division I-FCS,7961,Public,14,14,3422836,1.2798069231389178,Basketball
+2019,University of South Dakota,Vermillion,SD,NCAA Division I-FCS,4843,Public,16,14,3057920,1.1346945101034147,Basketball
+2019,Austin Peay State University,Clarksville,TN,NCAA Division I-FCS,6711,Public,14,14,2727044,1.6282456189384835,Basketball
+2019,East Tennessee State University,Johnson City,TN,NCAA Division I-FCS,9194,Public,15,15,3464125,1.6567718778880038,Basketball
+2019,The University of Tennessee-Chattanooga,Chattanooga,TN,NCAA Division I-FCS,9212,Public,14,13,3167988,1.5727762212206116,Basketball
+2019,The University of Tennessee-Martin,Martin,TN,NCAA Division I-FCS,4743,Public,15,18,2328173,0.9928893035677601,Basketball
+2019,Tennessee State University,Nashville,TN,NCAA Division I-FCS,4806,Public,16,14,2222952,1.4446607258918585,Basketball
+2019,Tennessee Technological University,Cookeville,TN,NCAA Division I-FCS,7974,Public,17,15,2206808,1.058604914962052,Basketball
+2019,Abilene Christian University,Abilene,TX,NCAA Division I-FCS,3344,Private nonprofit,14,12,3176442,1.1655177021436733,Basketball
+2019,Houston Baptist University,Houston,TX,NCAA Division I-FCS,2067,Private nonprofit,15,17,2417338,1.2386884249968282,Basketball
+2019,University of the Incarnate Word,San Antonio,TX,NCAA Division I-FCS,4029,Private nonprofit,14,13,2612037,1.113243831874903,Basketball
+2019,Lamar University,Beaumont,TX,NCAA Division I-FCS,5237,Public,14,12,2505260,1.248664853560241,Basketball
+2019,Prairie View A & M University,Prairie View,TX,NCAA Division I-FCS,7501,Public,18,14,2188506,1.2136396647536125,Basketball
+2019,Sam Houston State University,Huntsville,TX,NCAA Division I-FCS,15311,Public,15,17,2261888,1.1497832527203897,Basketball
+2019,Stephen F Austin State University,Nacogdoches,TX,NCAA Division I-FCS,9183,Public,16,13,3239168,1.7566824166995738,Basketball
+2019,Texas Southern University,Houston,TX,NCAA Division I-FCS,6032,Public,14,16,2849605,1.3447074263474679,Basketball
+2019,Southern Utah University,Cedar City,UT,NCAA Division I-FCS,6831,Public,14,15,2351577,1.4310504709456855,Basketball
+2019,Weber State University,Ogden,UT,NCAA Division I-FCS,10778,Public,16,14,2971088,1.64428363040222,Basketball
+2019,William & Mary,Williamsburg,VA,NCAA Division I-FCS,6187,Public,15,13,4534968,1.6371060595135363,Basketball
+2019,Hampton University,Hampton,VA,NCAA Division I-FCS,3488,Private nonprofit,17,15,2403060,1.1767537920133337,Basketball
+2019,James Madison University,Harrisonburg,VA,NCAA Division I-FCS,18772,Public,13,33,6202397,1.4178999688133478,Basketball
+2019,Norfolk State University,Norfolk,VA,NCAA Division I-FCS,4570,Public,14,15,2778701,1.285698656729923,Basketball
+2019,University of Richmond,University of Richmond,VA,NCAA Division I-FCS,2937,Private nonprofit,15,17,7488204,1.8907821383252528,Basketball
+2019,Virginia Military Institute,Lexington,VA,NCAA Division I-FCS,1698,Public,15,NA,1501001,NA,Basketball
+2019,Eastern Washington University,Cheney,WA,NCAA Division I-FCS,8906,Public,18,16,2987035,1.2406952600136225,Basketball
+2019,Kennesaw State University,Kennesaw,GA,NCAA Division I-FCS,25285,Public,16,14,2663345,1.2340162291201482,Basketball
